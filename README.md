@@ -14,3 +14,5 @@ This project was made for a mini project in school. Feel free to improve the cod
 ![alt text](https://github.com/realmacaw/real-mart/blob/master/images/update_employee.png)
 
 
+Username: EMP0000 
+Password: admin 
